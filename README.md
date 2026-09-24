@@ -167,4 +167,4 @@
 </table>
 
 <hr>
-# t-Tools
+# t-Tools # termux # Linux
